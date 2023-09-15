@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-dimatori",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,11 @@
     "type": "git",
     "url": "gti+https://github.com/dimatori/random-str-msg-dimatori.git"
   },
-
   "keywords": [],
   "author": "Diana Maria Torres <dimatori@gmail.com>",
   "license": "MIT",
-  
   "bin": {
     "random-str-msg-dimatori": "./bin/global.js"
   },
   "preferGlobal": true
-  
 }
